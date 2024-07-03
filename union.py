@@ -3,9 +3,9 @@ import pandas as pd
 import xlsxwriter
 
 # Defina o caminho da pasta que contém as planilhas coletadas para serem unificadas
-pasta_entrada = 'C:/Projetos/LISTAS_PRESENCA/2023/_COLETA/'
+pasta_entrada = 'C:/Projetos/LISTAS_PRESENCA/01062024a30062024/_COLETA/'
 # Defina o caminho e nome do arquivo onde ser gravado o resultado final unificado
-arquivo_saida = 'C:/Projetos/LISTAS_PRESENCA/2023/_RESULTADO/RES_LISTAS_PRESENCA_2023.xlsx'
+arquivo_saida = 'C:/Projetos/LISTAS_PRESENCA/01062024a30062024/_RESULTADO/RES_LISTAS_PRESENCA_01062024a30062024.xlsx'
 
 # Lista para armazenar os DataFrames de cada planilha
 planilhas = []

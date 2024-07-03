@@ -6,12 +6,12 @@ import os
 
 # PARÂMETROS
 
-# Coluna para especificar o programa
-coluna_programa = 'Semana Mundial do Investidor 2023 - Outros'
+# Coluna para especificar o programa (Usualmente o nome da pasta disponibilizada)
+coluna_programa = 'Semana ENEF 2024 - [Portfólio do Instituto Sicoob] Se Liga Finanças - Workshop - Finanças Pessoais'
 # Definir o diretório onde estão as planilhas (usa as barras invertidas /)
-diretorio_planilhas = 'C:/Projetos/LISTAS_PRESENCA/2023/Semana Mundial do Investidor 2023/Outros/'
+diretorio_planilhas = 'C:/Projetos/LISTAS_PRESENCA/01062024a30062024/Semana ENEF 2024/[Portfólio do Instituto Sicoob] Se Liga Finanças - Workshop - Finanças Pessoais/'
 # Definir o diretório onde será salvo o resultado coletado de cada programa (usa as barras invertidas /)
-diretorio_coleta = 'C:/Projetos/LISTAS_PRESENCA/2023/_COLETA/'
+diretorio_coleta = 'C:/Projetos/LISTAS_PRESENCA/01062024a30062024/_COLETA/'
 
 
 # Função para tratar o CPF para a coluna CPF_TRATADO

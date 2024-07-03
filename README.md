@@ -6,6 +6,12 @@ Cenário:
 Diretório com vários sub-diretórios, e cada um desses sub-diretórios possuem dezenas de arquivos XLSX, cada arquivo pode possui uma coluna com nome CPF pu CPF/CNPJ, que será lida pelo script (não importando a posição da coluna) e capturado o valor de cada linha. Este projeto faz a leitura de cada sub-diretório (nome e conteúdo) separadamente e manualmente.
 
 
+TODO
+=================================
+Possibilidade de leitura mesmo quando rótulo estiver como CONFIDENCIAL, RESTRITO, etc
+Leitura recursiva dos diretórios
+
+
 ARQUIVOS
 ------------
 read.py : Leitura dos arquivos em cada sub-diretório.
