@@ -14,8 +14,10 @@ Leitura recursiva dos diretórios
 
 ARQUIVOS
 ------------
-read.py : Leitura dos arquivos em cada sub-diretório.
-union.py : União dos arquivos resultantes de cada leitura em um único arquivo consolidado.
+1. read.py : Leitura dos arquivos em cada sub-diretório.
+2. union.py : União dos arquivos resultantes de cada leitura em um único arquivo consolidado.
+3. validate_cpf.py : Cria uma nova coluna informando se o CPF é válido.
+
 
 PARÂMETROS
 ------------
