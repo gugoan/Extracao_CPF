@@ -7,11 +7,11 @@ import os
 # PARÂMETROS
 
 # Coluna para especificar o programa (Usualmente o nome da pasta disponibilizada)
-coluna_programa = 'Outras Ações - Cooperativismo'
+coluna_programa = 'Semana Mundial do Investidor 2024 - Se Liga Finanças - Workshop - Finanças Pessoais'
 # Definir o diretório onde estão as planilhas (usa as barras invertidas /)
-diretorio_planilhas = 'C:/Projetos/LISTAS_PRESENCA/01.09.2024a31.09.2024/Outras Ações - Cooperativismo/'
+diretorio_planilhas = 'C:/Projetos\LISTAS_PRESENCA/01.10.2024 a 31.10.2024/Semana Mundial do Investidor 2024 - Se Liga Finanças - Workshop - Finanças Pessoais/'
 # Definir o diretório onde será salvo o resultado coletado de cada programa (usa as barras invertidas /)
-diretorio_coleta = 'C:/Projetos/LISTAS_PRESENCA/01.09.2024a31.09.2024/_COLETA/'
+diretorio_coleta = 'C:/Projetos/LISTAS_PRESENCA/01.10.2024 a 31.10.2024/_COLETA/'
 
 
 # Função para tratar o CPF para a coluna CPF_TRATADO
